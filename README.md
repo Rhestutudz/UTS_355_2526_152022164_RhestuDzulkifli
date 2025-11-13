@@ -1,4 +1,4 @@
-# UTS Mobile Programming - Rhestu Dzulkifli
+# UTS Mobile Programming - Rhestu Dzulkifli (152022164)
 
 Proyek ini merupakan aplikasi sederhana berbasis *Flutter* yang dikembangkan untuk memenuhi tugas UTS mata kuliah Mobile Programming.  
 Aplikasi ini menampilkan beberapa halaman dengan fungsi dan tampilan berbeda sebagai latihan dalam pembuatan antarmuka serta pengelolaan logika dasar di Flutter.
@@ -75,3 +75,4 @@ Menampilkan daftar berita terkini menggunakan komponen Card dan ListTile.
 1. Clone repositori berikut:
    ```bash
    git clone https://github.com/RhestuDzulkifli/uts_mobile_app.git 
+
