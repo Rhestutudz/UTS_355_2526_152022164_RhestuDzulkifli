@@ -15,7 +15,7 @@ Tujuan pengembangan aplikasi ini adalah untuk memahami konsep widget, state mana
 ## Tampilan dan Fungsi Halaman
 
 ### 1. Splash Screen
-Halaman awal yang muncul sebelum masuk ke menu utama aplikasi.
+Halaman awal yang muncul sebelum masuk dengan loading screen menggunakan matahari untuk ke menu utama aplikasi.
 
 ![Splash Screen](https://github.com/user-attachments/assets/00abf183-892f-449e-9901-1b3345685238)
 
@@ -75,4 +75,5 @@ Menampilkan daftar berita terkini menggunakan komponen Card dan ListTile.
 1. Clone repositori berikut:
    ```bash
    git clone https://github.com/RhestuDzulkifli/uts_mobile_app.git 
+
 
